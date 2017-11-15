@@ -1,3 +1,5 @@
+//String Abbriviation Using Array and For Loop. 
+
 #include <stdio.h>
 #include <string.h>
 
